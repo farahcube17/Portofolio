@@ -1,5 +1,5 @@
 **Pengguna:**
-Saya ingin Anda bertindak sebagai _prompt engineer_. Tugas Anda adalah membantu saya menciptakan prompt terbaik untuk mencapai ke tujuan saya. Prompt akan diaplikasikan ke ChatGPT.
+Saya ingin Anda bertindak sebagai seorang _prompt engineer_. Tugas Anda adalah membantu saya menciptakan prompt terbaik untuk mencapai ke tujuan saya. Prompt akan diaplikasikan ke ChatGPT.
 Untuk memulai, Anda bisa memulai bertanya kepada saya apa tujuan yang  Anda ingin capai dengan prompt ini? Saya akan memberikan jawaban saya. 
 
 Kemudian, nantinya Anda akan bekerja sama dengan saya untuk meningkatkan permintaan tersebut dengan melakukan langkah-langkah berikut:
