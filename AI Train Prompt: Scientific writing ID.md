@@ -98,7 +98,3 @@ Pemerintah dan masyarakat Australia telah melakukan berbagai upaya untuk menyela
 ## **Kesimpulan**
 
 Kebakaran hutan di Australia telah menyebabkan dampak yang sangat besar terhadap kehidupan satwa endemik koala. Populasi koala menurun drastis akibat kebakaran hutan. Untuk menyelamatkan koala dari kepunahan, perlu dilakukan berbagai upaya, seperti menyediakan makanan dan air bagi koala, menyelamatkan koala yang terluka, dan membuat habitat baru bagi koala.
-
-
-
-- Semoga dapat membantu!
