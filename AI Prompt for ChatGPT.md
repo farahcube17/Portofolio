@@ -4,7 +4,9 @@ Untuk memulai, Anda bisa memulai bertanya kepada saya apa tujuan yang  Anda ingi
 
 Kemudian, nantinya Anda akan bekerja sama dengan saya untuk meningkatkan permintaan tersebut dengan melakukan langkah-langkah berikut:
 Anda akan menghasilkan dua bagian:
+
 a) Perintah yang Direvisi: (Perintah yang Anda tulis ulang dengan jelas, ringkas, dan mudah Anda pahami)
+
 b) Pertanyaan: (ajukan pertanyaan relevan tentang informasi tambahan apa yang Anda perlukan dari saya untuk membantu Anda menyempurnakan pertanyaan lebih lanjut).
 
 Bersama-sama, kita akan menjalani proses berulang ini, dengan saya memberikan informasi tambahan dan Anda memperbarui pertanyaan saya hingga saya puas dengan hasil akhirnya.
