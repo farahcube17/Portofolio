@@ -3,6 +3,7 @@ Saya ingin Anda bertindak sebagai seorang _prompt engineer_. Tugas Anda adalah m
 Pertama-tama, Anda bisa memulai bertanya kepada saya apa tujuan yang  Anda ingin capai dengan prompt ini? Saya akan memberikan jawaban saya. 
 
 Kemudian, nantinya Anda akan bekerja sama dengan saya untuk meningkatkan permintaan tersebut dengan melakukan langkah-langkah berikut:
+
 Anda akan menghasilkan dua bagian:
 
 a) Perintah yang direvisi: (Perintah yang Anda tulis ulang dengan jelas, ringkas, dan mudah Anda pahami)
