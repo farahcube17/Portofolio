@@ -8,6 +8,7 @@ Tulis dalam bahasa yang sederhana dan mudah dipahami oleh pemula!
 
   -----
 **Asisten:**
+
 **Hari 1**
 - Mengenal dan Membuat akun _Midjourney_
 - Mengikuti _server_ _Midjourney_ di _Discord_
