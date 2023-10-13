@@ -5,7 +5,7 @@ Untuk memulai, Anda bisa memulai bertanya kepada saya apa tujuan yang  Anda ingi
 Kemudian, nantinya Anda akan bekerja sama dengan saya untuk meningkatkan permintaan tersebut dengan melakukan langkah-langkah berikut:
 Anda akan menghasilkan dua bagian:
 
-a) Perintah yang Direvisi: (Perintah yang Anda tulis ulang dengan jelas, ringkas, dan mudah Anda pahami)
+a) Perintah yang direvisi: (Perintah yang Anda tulis ulang dengan jelas, ringkas, dan mudah Anda pahami)
 
 b) Pertanyaan: (ajukan pertanyaan relevan tentang informasi tambahan apa yang Anda perlukan dari saya untuk membantu Anda menyempurnakan pertanyaan lebih lanjut).
 
@@ -27,7 +27,7 @@ Saya ingin belajar dasar-dasar Phyton yang biasa digunakan untuk pengembangan ke
 **ChatGPT:** 
 Terima kasih atas tujuannya. Sekarang, mari kita buat prompt yang sesuai. Pertama, inilah perintah yang direvisi:
 
-a) Perintah yang Direvisi: "Berikan penjelasan singkat mengenai dasar-dasar Python yang umumnya digunakan dalam pengembangan kecerdasan buatan."
+a) Perintah yang direvisi: "Berikan penjelasan singkat mengenai dasar-dasar Python yang umumnya digunakan dalam pengembangan kecerdasan buatan."
 
 Sekarang, saya membutuhkan beberapa informasi tambahan untuk memperbarui pertanyaan ini. Pertanyaan berikut akan membantu saya memahami detail yang Anda inginkan:
 
@@ -52,7 +52,7 @@ Saya ingin mempelajari mengenai pemrosesan bahasa alami dan pembelajaran mesin l
 **ChatGPT:**
 Terima kasih atas informasinya. Berdasarkan preferensi Anda, saya akan merevisi perintah dan pertanyaan sebelumnya untuk menciptakan prompt yang lebih sesuai. 
 
-a) Perintah yang Direvisi: "Berikan penjelasan singkat mengenai penggunaan TensorFlow, PyTorch, dan scikit-learn dalam pengembangan kecerdasan buatan, serta bagaimana mereka berperan dalam pemrosesan bahasa alami dan pembelajaran mesin."
+a) Perintah yang direvisi: "Berikan penjelasan singkat mengenai penggunaan TensorFlow, PyTorch, dan scikit-learn dalam pengembangan kecerdasan buatan, serta bagaimana mereka berperan dalam pemrosesan bahasa alami dan pembelajaran mesin."
 
 b) Pertanyaan:
 1. Apa yang ingin Anda ketahui lebih mendalam tentang TensorFlow, PyTorch, dan scikit-learn? Adakah aspek khusus yang ingin Anda fokuskan?
@@ -73,7 +73,7 @@ Akhir-akhir ini saya terlibat dalam proyek pelatihan chatbot, sepertinya kami me
 **ChatGPT:**
 Tentu, saya akan membuat perintah yang direvisi dan pertanyaan tambahan berdasarkan informasi yang Anda berikan:
 
-a) Perintah yang Direvisi: "Berikan penjelasan singkat dan sederhana tentang perbedaan serta fungsi dari TensorFlow, PyTorch, dan scikit-learn dalam pengembangan kecerdasan buatan, dengan penekanan pada penggunaan TensorFlow dalam pelatihan chatbot."
+a) Perintah yang direvisi: "Berikan penjelasan singkat dan sederhana tentang perbedaan serta fungsi dari TensorFlow, PyTorch, dan scikit-learn dalam pengembangan kecerdasan buatan, dengan penekanan pada penggunaan TensorFlow dalam pelatihan chatbot."
 
 b) Pertanyaan:
 1. Apakah Anda ingin penjelasan tentang algoritma khusus yang digunakan dalam TensorFlow dalam konteks pelatihan chatbot?
@@ -96,7 +96,7 @@ Tidak ada.
 **ChatGPT:**
 Terima kasih atas klarifikasinya. Berdasarkan informasi tersebut, inilah perintah yang direvisi:
 
-a) Perintah yang Direvisi: "Jelaskan dengan lugas bagaimana TensorFlow digunakan dalam pelatihan chatbot, khususnya dalam konteks pengenalan entitas, dengan penjelasan yang mudah dipahami oleh pemula."
+a) Perintah yang direvisi: "Jelaskan dengan lugas bagaimana TensorFlow digunakan dalam pelatihan chatbot, khususnya dalam konteks pengenalan entitas, dengan penjelasan yang mudah dipahami oleh pemula."
 
 Dengan perintah ini, saya akan mencoba memberikan penjelasan yang sederhana dan informatif mengenai penggunaan TensorFlow dalam pelatihan chatbot, khususnya dalam pengenalan entitas. 
 Jika ada pertanyaan lebih lanjut atau hal-hal yang ingin Anda diskusikan, jangan ragu untuk bertanya.
