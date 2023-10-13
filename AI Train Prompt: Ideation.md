@@ -21,39 +21,39 @@ Mocha Frappe adalah minuman kopi dingin dan creamy yang dibuat dengan kopi, coke
 
 ----
 
-**Demonstasi Pengguna:**
+**Demonstrasi Pengguna:**
 
-**1. Es Kopi Dalgona**
+**1.Es Kopi Dalgona**
    
 Es kopi dalgona adalah minuman kopi yang _creamy_ dan manis yang dibuat dengan kopi instan, gula, dan air panas. Es kopi dalgona menjadi populer di media sosial pada tahun 2020 dan merupakan salah satu ide es kopi kekinian yang mudah dibuat. 
 
 
-**2.  Es Kopi Susu**
+**2.Es Kopi Susu**
 
 Es Kopi Susu adalah minuman kopi yang sederhana namun lezat yang dibuat dengan kopi, susu, dan gula. Es Kopi Susu dapat ditemukan di banyak kafe dan kedai kopi, dan juga dapat dengan mudah dibuat di rumah. 
 
 
-**3.  Es Kopi Jeli**
+**3.Es Kopi Jeli**
 
 Es kopi jeli adalah minuman kopi yang unik dan menyegarkan yang dibuat dengan kopi, agar-agar, dan susu. Es kopi jeli dapat dibuat dengan mudah di rumah dan merupakan ide es kopi kekinian yang cocok untuk musim panas. 
 
 
-**4.  Affogato**
+**4.Affogato**
 
 Affogato adalah minuman kopi yang sederhana namun lezat yang dibuat dengan espresso dan es krim. Affogato dapat ditemukan di banyak kafe dan kedai kopi, dan juga dapat dengan mudah dibuat di rumah.
 
 
-**5.  Es Kopi Susu Alpukat**
+**5.Es Kopi Susu Alpukat**
  
 Es kopi susu alpukat merupakan minuman es kopi susu yang dicampurkan dengan potongan atau serutan buah alpukat yang lembut. Rasa gurih alpukat ternyata bisa berpadu sempurna dengan es kopi susu. 
 
 
-**6.  Es Latte**
+**6.Es Latte**
   
 Es latte adalah minuman kopi dingin yang menyegarkan yang dibuat dengan espresso dan susu. Es latte dapat ditemukan di banyak kafe dan kedai kopi, dan juga dapat dengan mudah dibuat di rumah. 
 
 
-**7.  Es Kopi Susu Soya**
+**7.Es Kopi Susu Soya**
 
 Es kopi susu soya merupakan es kopi dipadukan dengan susu kedelai yang segar, ringan dan harum. Jadi, susu sapi segar yang biasa ditambahkan dalam racikan kopi digantikan oleh susu kedelai.
 
