@@ -72,9 +72,9 @@ Kebakaran hutan di Australia disebabkan oleh beberapa faktor, antara lain:
 
 ## **Kehidupan Koala Sebelum dan Sesudah Kebakaran**
 
-Koala merupakan satwa endemik Australia yang hidup di hutan. Koala memiliki habitat yang spesifik, yaitu hutan dengan pohon eukaliptus. Pohon eukaliptus merupakan sumber makanan utama bagi koala.
-Sebelum kebakaran hutan terjadi. Koala memiliki populasi yang cukup besar dan stabil. Namun, kebakaran hutan telah menyebabkan kerusakan yang sangat besar pada habitat koala. Jutaan pohon eukaliptus terbakar, sehingga koala kehilangan sumber makanan dan tempat tinggalnya.
-Setelah kebakaran hutan, kondisi koala menjadi sangat rentan akan kelaparan. Koala tidak memiliki makanan dan tempat tinggal yang layak. Banyak koala yang mati karena kelaparan, dehidrasi, dan luka bakar. Populasi koala pun menurun drastis. Seorang ahli ekologi asal Australia melaporkan bahwa ada sekitar  8.000 populasi Koala musnah akibat kebakaran yang melanda Australia sejak September 2019.
+Koala merupakan satwa endemik Australia yang hidup di hutan. Koala memiliki habitat yang spesifik, yaitu hutan dengan pohon eukaliptus. Pohon eukaliptus merupakan sumber makanan utama bagi koala. Sebelum kebakaran hutan terjadi. Koala memiliki populasi yang cukup besar dan stabil. Namun, kebakaran hutan telah menyebabkan kerusakan yang sangat besar pada habitat koala.
+
+Jutaan pohon eukaliptus terbakar, sehingga koala kehilangan sumber makanan dan tempat tinggalnya. Setelah kebakaran hutan, kondisi koala menjadi sangat rentan akan kelaparan. Koala tidak memiliki makanan dan tempat tinggal yang layak. Banyak koala yang mati karena kelaparan, dehidrasi, dan luka bakar. Populasi koala pun menurun drastis. Seorang ahli ekologi asal Australia melaporkan bahwa ada sekitar  8.000 populasi Koala musnah akibat kebakaran yang melanda Australia sejak September 2019.
 
 
 ## **Langkah Pencegahan yang Dapat Diambil**
