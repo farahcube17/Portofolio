@@ -43,7 +43,7 @@ Dengan informasi tambahan ini, kita bisa membuat prompt yang lebih sesuai dengan
 
 **Pengguna:** 
 Saya lebih tertarik pada penerapannya dalam konteks kecerdasan buatan. 
-Untuk saat ini, baru mempelajari Phyton. 
+Untuk saat ini,saya baru mempelajari Phyton. 
 Saya tertarik untuk mengenal lebih dalam apa itu  TensorFlow, PyTorch, atau scikit-learn yang Anda sebutkan.
 Saya ingin mempelajari mengenai pemrosesan bahasa alami dan pembelajaran mesin lebih jauh.
 
