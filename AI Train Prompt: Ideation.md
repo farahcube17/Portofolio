@@ -30,7 +30,7 @@ Es kopi dalgona adalah minuman kopi yang _creamy_ dan manis yang dibuat dengan k
 
 **2.Es Kopi Susu**
 
-Es Kopi Susu adalah minuman kopi yang sederhana namun lezat yang dibuat dengan kopi, susu, dan gula. Es Kopi Susu dapat ditemukan di banyak kafe dan kedai kopi, dan juga dapat dengan mudah dibuat di rumah. 
+Es kopi susu adalah minuman kopi yang sederhana namun lezat yang dibuat dengan kopi, susu, dan gula. Es kopi susu dapat ditemukan di banyak kafe dan kedai kopi, dan juga dapat dengan mudah dibuat di rumah. 
 
 
 **3.Es Kopi Jeli**
@@ -55,6 +55,6 @@ Es latte adalah minuman kopi dingin yang menyegarkan yang dibuat dengan espresso
 
 **7.Es Kopi Susu Soya**
 
-Es kopi susu soya merupakan es kopi dipadukan dengan susu kedelai yang segar, ringan dan harum. Jadi, susu sapi segar yang biasa ditambahkan dalam racikan kopi digantikan oleh susu kedelai.
+Es kopi susu soya merupakan es kopi dipadukan dengan susu kedelai yang segar, ringan dan harum. Susu sapi segar yang biasa ditambahkan dalam racikan kopi digantikan oleh susu kedelai.
 
 ----
