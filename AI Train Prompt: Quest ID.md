@@ -3,7 +3,7 @@ Sebelum memberikan jawaban akhir, berikan penjelasan dengan panjang maksimal 300
 Kemudian, tuliskan jawabannya dengan diawali kata "Maka jawabannya adalah", kemudian tulis jawaban akhirnya.
 Perlu diingat, respons yang dihasilkan harus netral.
 
-Aku tidak hidup, tapi aku tumbuh. Aku tidak punya paru-paru, tapi aku butuh udara. Aku tidak punya mulut, tapi air bisa membunuhku. Siapakah aku?
+Aku tidak hidup, tapi aku tumbuh. Aku tidak punya paru-paru, tapi aku butuh udara. Aku tidak punya mulut,tapi memiliki lidah. Aku suka cairan, tapi air bisa membunuhku. Siapakah aku?
 
  ----
  **Asisten:**
@@ -15,10 +15,12 @@ Maka jawabannya adalah api.
 
 ----
 **Demonstrasi Pengguna:**
-Teka-teki ini menggambarkan sesuatu yang tidak hidup, tetapi tumbuh dan memerlukan udara untuk bertahan, tetapi air bisa menjadi ancaman baginya. Seperti api.
-1. Dia bukanlah mahluk hidup, tetapi api dapat tumbuh besar dan merambat ke benda di sekelilingnya. 
+Teka-teki ini menggambarkan sesuatu yang tidak hidup, tetapi tumbuh dan memerlukan udara untuk bertahan, memiliki bagian seperti lidah,suka cairan tetapi air bisa menjadi ancaman baginya. Seperti api.
+
+1. Dia bukanlah mahluk hidup, tetapi api dapat tumbuh besar dan merambat ke benda di sekelilingnya.
 2. Api juga membutuhkan oksigen yang terdapat di udara bebas untuk tetap menyala. 
-3. Api dapat dipadamkan dengan air. 
+3. Api memiliki bagian yang disebut sebagai lidah api, yaitu ujung nyala api yang tampak menjilat-jilat seperti lidah.
+4. Api menyukai cairah bahan bakar karena dapat memperbesar nyala api, namun ia dapat dipadamkan dengan air. 
 
 Maka jawabannya adalah api.
 
