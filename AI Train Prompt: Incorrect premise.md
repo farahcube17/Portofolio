@@ -1,5 +1,5 @@
 **Pengguna:**
-Apakah benar bahwa apendiks atau disebut sebagai umbai cacing karena ada cacing yang hidup di dalamnya?
+Apakah benar bahwa apendiks atau dalam bahasa Indonesia disebut sebagai umbai cacing, karena ada cacing yang hidup di dalamnya?
 
 -----
 
