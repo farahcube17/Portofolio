@@ -4,7 +4,7 @@ Atasan divisi kami, meminta kami bagian desain grafis untuk segera mempelajari M
 Kami yang terlalu awam tidak tahu harus memulai darimana untuk mempelajari Midjourney. Karena masih baru, sulit untuk menemukan kursus dan mentor yang ahli dalam penggunaan Midjourney. 
 Buatkan sebuah daftar perencanaan untuk mempelajari fitur, fungsi yang ada pada Midjourney selama 5 hari! 
 Daftar perencanaan tersebut harus dibuat dalam bentuk daftar poin ringkas yang dapat dicetak dalam selembar kertas ukuran A4. 
-Tulis dafta perencanaan yang dibuat dalam bahasa yang sederhana, dan mudah dipahami oleh pemula!
+Tulis daftar perencanaan yang dibuat dalam bahasa yang sederhana, dan mudah dipahami oleh pemula!
 
   -----
 **Asisten:**
