@@ -3,7 +3,7 @@ Sebelum memberikan jawaban akhir, berikan penjelasan dengan panjang maksimal 300
 Kemudian, tuliskan jawabannya dengan diawali kata "Maka jawabannya adalah", kemudian tulis jawaban akhirnya.
 Perlu diingat, respons yang dihasilkan harus netral.
 
-Aku tidak hidup, tapi aku tumbuh. Aku tidak punya paru-paru, tapi aku butuh udara. Aku tidak punya mulut,tapi memiliki lidah. Aku suka cairan, tapi air bisa membunuhku. Siapakah aku?
+Aku tidak hidup, tapi aku tumbuh. Aku tidak punya paru-paru, tapi aku butuh udara. Aku tidak punya mulut, tapi memiliki lidah. Aku juga suka minum cairan, tapi air bisa membunuhku. Siapakah aku?
 
  ----
  **Asisten:**
