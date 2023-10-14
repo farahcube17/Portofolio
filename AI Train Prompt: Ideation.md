@@ -1,4 +1,4 @@
-**Pengguna:** Buatlah sebuah daftar berisi 7 ide es kopi kekinian yang mudah dibuat, kemudian berikan penjelasan singkat mengenai ide yang dibuat!
+**Pengguna:** Buatlah sebuah daftar yang berisi 7 ide minuman es kopi kekinian yang mudah dibuat, kemudian berikan penjelasan singkat mengenai ide yang dibuat!
 
 ----
 
