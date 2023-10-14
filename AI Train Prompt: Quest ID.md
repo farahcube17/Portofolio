@@ -15,7 +15,7 @@ Maka jawabannya adalah api.
 
 ----
 **Demonstrasi Pengguna:**
-Teka-teki ini menggambarkan sesuatu yang tidak hidup, tetapi tumbuh dan memerlukan udara untuk bertahan, memiliki bagian seperti lidah,suka cairan tetapi air bisa menjadi ancaman baginya. Seperti api.
+Teka-teki ini menggambarkan sesuatu yang tidak hidup, tetapi tumbuh dan memerlukan udara untuk bertahan, memiliki bagian seperti lidah, suka cairan tetapi air bisa menjadi ancaman baginya. Seperti api.
 
 1. Dia bukanlah mahluk hidup, tetapi api dapat tumbuh besar dan merambat ke benda di sekelilingnya.
 2. Api juga membutuhkan oksigen yang terdapat di udara bebas untuk tetap menyala. 
